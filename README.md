@@ -10,15 +10,15 @@ This is my assigment for unit Creating Web Applications. The purposes of this wo
 - Create a file to store your database connection variables “settings.php”
 - Create an EOI table (expressions of interest)
   * EOInumber (auto-generated id)
-            ⋅⋅* EOInumber (auto-generated id)
-            ⋅⋅* Job Reference number
-            ⋅⋅* First name
-            ⋅⋅* Last name
-            ⋅⋅* Address
-            ⋅⋅* Email address
-            ⋅⋅* Phone number
-            ⋅⋅* Skills
-            ⋅⋅* Other skills
+            * EOInumber (auto-generated id)
+            * Job Reference number
+            * First name
+            * Last name
+            * Address
+            * Email address
+            * Phone number
+            * Skills
+            * Other skills
 - Adding validated records to the EOI table (processEOI.php)
 - HR manager queries (manage.php)
 
