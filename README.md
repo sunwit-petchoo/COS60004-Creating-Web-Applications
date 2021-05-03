@@ -1,9 +1,11 @@
 # Creating Web Applications
 
-This is my assigment for unit Creating Web Applications. The purposes of this works are to create from static to interactive website including server-side programing     
+This is my assigment for unit Creating Web Applications. The purposes of this works are to create from static to interactive website including server-side programing
+
 # Requirements
-- Parking slots have two types: visitors and staff members
-- Parking slot starts with a capital letter, followed by a two-digit number e.g."A01", "A02"
+- Create server-side PHP scripts to process job application data sent from the Web forms 
+- Create simple MySQL tables for storing, updating and retrieving information from a website.
+- Create a Web page that allows the Human Resources (HR) manager at the company to view, update and delete applications
 - Know that the parking slot is occupied or not
 - A car has registration number always starts with a capital letter, followed by a four-digit number e.g. “A2345”.  
 - A car will have onwer and know whether the owner is staff member   
