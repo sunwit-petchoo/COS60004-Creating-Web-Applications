@@ -1,6 +1,6 @@
 # Creating Web Applications
 
-This is my assigment for unit Creating Web Applications. The purposes of this works are to create from static to interactive website including server-side programing
+This is my works for unit Creating Web Applications. The purposes of this works are to create from static to interactive website including server-side programing
 
 # Requirements
 
